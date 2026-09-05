@@ -26,7 +26,7 @@ dynamically loading a 100Mb US zip codes GeoJSON with 5.4 million points:
 
 ![](https://cloud.githubusercontent.com/assets/25395/5360312/86028d8e-7f91-11e4-811f-87f24acb09ca.gif)
 
-There's a convenient [debug page](http://mapbox.github.io/geojson-vt/debug/) to test out **geojson-vt** on different data.
+There's a convenient [debug page](https://mapbox.github.io/geojson-vt/debug/) to test out **geojson-vt** on different data.
 Just drag any GeoJSON on the page, watching the console.
 
 ![](https://cloud.githubusercontent.com/assets/25395/5363235/41955c6e-7fa8-11e4-9575-a66ef54cb6d9.gif)
